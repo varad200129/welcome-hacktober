@@ -1,0 +1,15 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin: 0%;
+}
+.p1{
+    background-image: url(img/Hacktoberfest_Wallpaper_desktop-02.png);
+    background-size: cover;
+    height: 100vh;
+}
+.p2{
+    background-color: #2b3531;
+    height: 100vh;
+    color: #a88771;
+}
